@@ -1,0 +1,14 @@
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/bin/Debug/net8.0/VirtualMemoryLabTask
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/bin/Debug/net8.0/VirtualMemoryLabTask.deps.json
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/bin/Debug/net8.0/VirtualMemoryLabTask.runtimeconfig.json
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/bin/Debug/net8.0/VirtualMemoryLabTask.dll
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/bin/Debug/net8.0/VirtualMemoryLabTask.pdb
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/obj/Debug/net8.0/VirtualMemoryLabTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/obj/Debug/net8.0/VirtualMemoryLabTask.AssemblyInfoInputs.cache
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/obj/Debug/net8.0/VirtualMemoryLabTask.AssemblyInfo.cs
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/obj/Debug/net8.0/VirtualMemoryLabTask.csproj.CoreCompileInputs.cache
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/obj/Debug/net8.0/VirtualMemoryLabTask.dll
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/obj/Debug/net8.0/refint/VirtualMemoryLabTask.dll
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/obj/Debug/net8.0/VirtualMemoryLabTask.pdb
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/obj/Debug/net8.0/VirtualMemoryLabTask.genruntimeconfig.cache
+/Users/2110115/Desktop/VirtualMemory/VirtualMemoryLabTask/obj/Debug/net8.0/ref/VirtualMemoryLabTask.dll
